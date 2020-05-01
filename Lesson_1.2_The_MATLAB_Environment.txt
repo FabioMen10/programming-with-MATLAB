@@ -1,0 +1,5 @@
+cls
+{Unrecognized function or variable 'cls'.
+} 
+clc
+diary off
